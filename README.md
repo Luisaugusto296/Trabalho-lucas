@@ -3,6 +3,7 @@
 Autor: Luis Augusto
 
 Este documento descreve um código para processamento de imagens utilizando as bibliotecas OpenCV e Matplotlib, que foram solicitadas mediante atividade disponivilizada pelo professor lucas.
+Foi ultilizado o jupiter notebook, o mesmo se encontra aqui neste projeto
 Bibliotecas Utilizadas: 
 - **OpenCV**: Para manipulação e processamento de imagens.
 - **NumPy**: Para operações numéricas.
