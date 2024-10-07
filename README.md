@@ -1,2 +1,2 @@
 # Trabalho-lucas
-Repositorio criado para vizualizacao do projeto no git
+o projeto foi colocado em formaro notebook para que o proprio git pudesse mostrar renderizado
